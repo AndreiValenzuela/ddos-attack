@@ -9,7 +9,7 @@ from threading import Thread
 
 
 # the IP and port you want to attack
-URL = '127.0.0.1:9999'
+URL = 'cityofqueens.online:30120'
 
 
 def header_dict2str(data):
